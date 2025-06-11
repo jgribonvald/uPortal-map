@@ -1,6 +1,6 @@
 # uPortal Adopter's Map
 
-This is the repository for the [map of uPortal-Project](https://required_domaine.edu) adopters.
+This is the repository for the [map of uPortal-Project](https://jgribonvald.github.io/uPortal-map/) adopters.
 The map shows the locations of participating uPortal installations.
 
 ## Get Your Installation on the Map!
