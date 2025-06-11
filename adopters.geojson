@@ -1,0 +1,8 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {"type": "Feature", "properties": {"institution": "GIP RECIA - k12 schools of Center Loire Valley"}, "geometry": {"type": "Point", "coordinates": [1.94146, 47.82962]}},
+    {"type": "Feature", "properties": {"institution": "University of Orléans"}, "geometry": {"type": "Point", "coordinates": [1.9339062, 47.8453037]}},
+    {"type": "Feature", "properties": {"institution": "University of Tours"}, "geometry": {"type": "Point", "coordinates": [0.675141, 47.3834113]}}
+  ]
+}
